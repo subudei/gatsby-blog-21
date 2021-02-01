@@ -1,0 +1,23 @@
+$color1: #49727a;
+$color2: #68a2ad;
+$color3: #3499ad;
+$blog: #ad5911;
+$blog2: #1d5661;
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
+  color: $color1;
+}
+.layout__container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  .layout__content {
+    flex-grow: 1;
+  }
+}
