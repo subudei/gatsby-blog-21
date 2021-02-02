@@ -13,6 +13,10 @@ function BlogPage() {
               title
               date
             }
+            timeToRead
+            fields {
+              slug
+            }
           }
         }
       }
@@ -25,9 +29,10 @@ function BlogPage() {
         <ol>
           {data.allMarkdownRemark.edges.map(edge => {
             return (
-              <li key={edge.node.title}>
-                <Link to={`/blog/${edge.node.slug}`}>
+              <li key={edge.node.fields.slug}>
+                <Link to={`/blog/${edge.node.fields.slug}`}>
                   <h2>{edge.node.frontmatter.title}</h2>
+                  <p>Time to read {edge.node.timeToRead} min</p>
                   <p>{edge.node.frontmatter.date}</p>
                 </Link>
               </li>

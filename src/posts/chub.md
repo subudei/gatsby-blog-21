@@ -6,6 +6,9 @@ date: "2021-01-05"
 
 ## Spinning Chub 
 
+
+![Fisherman](./chub1.jpg)
+
 The current growth in anglers lure fishing has seen a fantastic rise in the popularity of perch, pike and zander as target species. But there is one predatory species, native to the UK and found all over the place that has largely gone under the radar for most lure chuckers.
 
 Chub are widespread through our river systems, they grow bigger than perch, fight dirty and during the summer and autumn months they feast on the year’s fry - making them the perfect target for a well-presented lure.
@@ -23,6 +26,8 @@ The final part of my terminal tackle apart from the end lure is a small micro sn
 
 
 ### Lures
+
+![Lures](./chub3.jpg)
 
 Chub love surface and shallow running lures and small floating crank baits are my number one choice. There are so many to choose from but my starter for ten is the Fox Funk Bug in the 4cm Shallow Runner or 5cm Deep Runner. The 4cm version is great on small rivers in ideal conditions, while the 5cm version adds a bit of extra weight and ‘plop’ when on wider reaches or on blustery days. Although classed as a deep runner it’s still a floater and can be worked shallow if needed if you lift your rod and get your retrieve right.
 
